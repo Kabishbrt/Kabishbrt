@@ -3,15 +3,18 @@ I am an aspiring developer with foundational skills in frontend and backend tech
 
 
 - 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS, Rust, Projects.
+
 - 🌱 Currently, I am learning Rust, MERN Stack to enhance my skill set and stay up-to-date with industry trends.
+
 - 👯 I am open to collaboration on interesting projects. If you have a project where you think my skills could contribute, feel free to reach out!
-- 🤔 I'm always open to learning from others. If you have expertise in Sofware Development and are willing to share your knowledge, I'd love to connect.
+
 - 📫 You can reach me via email at kabishbrt@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
+
 - ⚡ Fun fact: Apparently, I also happen to be an aspiring guitar player, finding harmony both in code and music. If we have a common interest, let's connect! 🚀 🎸🎶
 
 
 ### 🧰 Languages and Tools
-<a href="https://github.com/search?q=language%3Ajavascript+user%3Ayour-username&type=repositories">
+<a href="https://github.com/search?q=language%3Ajavascript+user%3AKabishbrt&type=repositories">
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </a>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
