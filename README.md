@@ -10,7 +10,7 @@ I am an aspiring developer with foundational skills in frontend and backend tech
 - ⚡ Fun fact: Apparently, I also happen to be an aspiring guitar player, finding harmony both in code and music. If we have a common interest, let's connect! 🚀 🎸🎶
 
 <p>
-        <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+        <a href="https://github.com/Kabishbrt?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 ## Skills
