@@ -9,30 +9,23 @@ I am an aspiring developer with foundational skills in frontend and backend tech
 - 📫 You can reach me via email at kabishbrt@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
 - ⚡ Fun fact: Apparently, I also happen to be an aspiring guitar player, finding harmony both in code and music. If we have a common interest, let's connect! 🚀 🎸🎶
 
-<p>
-        <a href="https://github.com/Kabishbrt?tab=repositories">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kabishbrt?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+
 ## Skills
+### 🧰 Languages and Tools
 
-- **Frontend:**
-  - HTML5, CSS3, JavaScript (ES6+), Typescript
-  - React.js
-  - Responsive Web Design, Bootstrap, Material UI.
-  - 
-
-- **Backend:**
-  - Node.js, Express.js, .NET
-  - Javascript, PHP, C#, JAVA, Rust,
-  - RESTful APIs, GraphQL
-
-- **Database:**
-  - MongoDB, MySQL, PostgreSQL
-  - Firebase, SQLite
-
-- **Version Control:**
-  - Git, GitHub, GitLab
-
-- **DevOps:**
-  - Docker, Kubernetes
-  - Continuous Integration/Continuous Deployment
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.
