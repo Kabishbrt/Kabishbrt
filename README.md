@@ -10,7 +10,6 @@ I am an aspiring developer with foundational skills in frontend and backend tech
 
 - 📫 You can reach me via email at kabishbrt@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
 
-- ⚡ Fun fact: Apparently, I also happen to be an aspiring guitar player, finding harmony both in code and music. If we share some common interest, let's connect! 🚀 🎸🎶
 
 
 ### 🧰 Languages and Tools
