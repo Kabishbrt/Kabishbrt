@@ -1,6 +1,7 @@
 Hi there 👋
-I am an aspiring developer with foundational skills in frontend and backend technologies. Keen on ensuring the reliability and functionality of software through effective QA and testing practices. Committed to effective problem-solving within development.
-
+I am an aspiring developer with skills in frontend and backend technologies.
+- Keen on ensuring the reliability and functionality of software through effective QA and testing practices.
+- Committed to effective problem-solving within development.
 
 - 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS, Rust, Projects.
 
