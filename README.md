@@ -3,7 +3,7 @@ I am an aspiring developer with skills in frontend and backend technologies.
 - Keen on ensuring the reliability and functionality of software through effective QA and testing practices.
 - Committed to effective problem-solving within development.
 
-- 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS, Rust, Projects.
+- 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS, Rust Projects.
 
 - 🌱 Currently, I am learning Rust, MERN Stack to enhance my skill set and stay up-to-date with industry trends.
 
