@@ -1,5 +1,5 @@
 Hi there 👋
-I am a CS Student with interests in Fullstack Development, DevOps and Machine Learning.
+I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 
 - 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS Projects.
 
