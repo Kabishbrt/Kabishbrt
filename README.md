@@ -1,17 +1,13 @@
 Hi there 👋
-I am an aspiring developer with skills in frontend and backend technologies.
-Keen on ensuring the reliability and functionality of software through effective QA and testing practices.
-Committed to effective problem-solving within development.
+I am a CS Student with interests in Fullstack Development, DevOps and Machine Learning.
 
-- 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS, Rust Projects.
+- 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS Projects.
 
-- 🌱 Currently, I am learning Rust, MERN Stack to enhance my skill set and stay up-to-date with industry trends.
+- 👯 I am open to collaboration on interesting projects. feel free to reach out!
 
-- 👯 I am open to collaboration on interesting projects. If you have a project where you think my skills could contribute, feel free to reach out!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
 
-- 📫 You can reach me via email at kabishbrt@gmail.com. Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
-
-###🧰 Languages and Tools
+🧰 Languages and Tools
 
 
 <a href="https://github.com/search?q=language%3Ajavascript+user%3AKabishbrt&type=repositories">
