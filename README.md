@@ -19,7 +19,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <a href="https://github.com/search?q=language%3Ajava+user%3AKabishbrt&type=repositories">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </a>
-<a href="https://github.com/search?q=language%3ARust+user%3AKabishbrt&type=repositories">
+<a href="https://github.com/search?q=language%3Arust+user%3AKabishbrt&type=repositories">
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </a>
 <a href="https://github.com/search?q=language%3AMongoDB+user%3AKabishbrt&type=repositories">
