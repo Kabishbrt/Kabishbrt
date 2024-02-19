@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 Hi there 👋
 I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 
@@ -9,7 +12,6 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 
 🧰 Languages and Tools
 
-
 <a href="https://github.com/search?q=language%3Ajavascript+user%3AKabishbrt&type=repositories">
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </a>
@@ -20,7 +22,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </a>
 <a href="https://github.com/search?q=language%3ARust+user%3AKabishbrt&type=repositories">
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 </a>
 <a href="https://github.com/search?q=language%3AMongoDB+user%3AKabishbrt&type=repositories">
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
