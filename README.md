@@ -28,7 +28,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <a href="https://github.com/search?q=language%dotnet+user%3AKabishbrt&type=repositories">
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </a>
-<a href="https://github.com/search?q=language%3AMySql+user%3AKabishbrt&type=repositories">
+<a href="https://github.com/search?q=language%MySql+user%3AKabishbrt&type=repositories">
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 </a>
 <a href="https://github.com/search?q=language%3ATypeScript+user%3AKabishbrt&type=repositories">
