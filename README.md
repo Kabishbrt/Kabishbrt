@@ -22,7 +22,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </a>
 <a href="https://github.com/search?q=language%3ARust+user%3AKabishbrt&type=repositories">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" alt="Rust Logo" height="100" width="100" />
+<i class="devicon-rust-original"></i>
 
 </a>
 <a href="https://github.com/search?q=language%3AMongoDB+user%3AKabishbrt&type=repositories">
