@@ -22,8 +22,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </a>
 <a href="https://github.com/search?q=language%3ARust+user%3AKabishbrt&type=repositories">
-<i class="devicon-rust-original"></i>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" width="50"/>
 </a>
 <a href="https://github.com/search?q=language%3AMongoDB+user%3AKabishbrt&type=repositories">
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
@@ -32,7 +31,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <img align="left" alt="dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </a>
 <a href="https://github.com/search?q=language%MySql+user%3AKabishbrt&type=repositories">
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" width="50"/>
 </a>
 <a href="https://github.com/search?q=language%3ATypeScript+user%3AKabishbrt&type=repositories">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
