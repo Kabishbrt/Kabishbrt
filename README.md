@@ -60,7 +60,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <br />
 <br/>
 
- 📊 Stats
+ 📊Stats
 
 ![Kabish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabishbrt&show_icons=true&theme=gruvbox)
 
