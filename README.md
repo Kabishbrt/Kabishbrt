@@ -2,7 +2,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 Hi there 👋
-I am a developer with interests in Fullstack Development, DevOps and ML/DS.
+I am a developer with interests in Fullstack Development, DevOps and Machine Learning/Data Science.
 
 - 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS Projects.
 
