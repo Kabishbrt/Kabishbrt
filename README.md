@@ -66,6 +66,7 @@ I am a developer with interests in Fullstack Development, DevOps and ML/DS.
 <p align="center">
 <a href="https://github.com/kabishbrt">
     <img src="https://github-stats-alpha.vercel.app/api?username=kabishbrt&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabishbrt&show_icons=true&locale=en&layout=compact" alt="kabishbrt" />
 </a>
 </p>
 
