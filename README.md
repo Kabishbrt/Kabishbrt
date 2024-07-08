@@ -10,7 +10,7 @@ I am a developer with interests in Fullstack Development, DevOps, ML & DS.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
 
-🧰 Languages and Tools
+🧰Languages and Tools
 
 <a href="https://github.com/search?q=language%3Ajavascript+user%3AKabishbrt&type=repositories">
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
