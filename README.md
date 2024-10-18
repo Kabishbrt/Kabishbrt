@@ -69,4 +69,5 @@ I am a developer with interests in Fullstack Development & DevOps.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabishbrt&show_icons=true&locale=en&layout=compact" alt="kabishbrt" />
 </a>
 </p>
+
 [![An image of @kabishbrt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabishbrt)](https://holopin.io/@kabishbrt)
