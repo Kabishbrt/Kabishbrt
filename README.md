@@ -2,12 +2,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 Hi there 👋
-I am a developer with interests in Fullstack Development & DevOps.
-
-- 🔭 I’m currently working as a fullstack web developer, primarily on JS, TS Projects.
-
-- 👯 I am open to collaboration on interesting projects. feel free to reach out!
-
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kabish-bhattarai-9ab669190/) for professional networking.
 
 🧰Languages and Tools
